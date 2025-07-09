@@ -27,7 +27,7 @@ Recently added a section on **Multithreading** in Python!
 - ✅ Real-world use cases for running parallel tasks
 
 📄 **Read the detailed explanation here**:  
-🔗 [Multithreading](./Advance%20Concepts/Multithreading/note.mdW)
+🔗 [Multithreading](./Advance%20Concepts/Multithreading/note.md)
 
 ---
 
