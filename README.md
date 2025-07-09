@@ -19,14 +19,15 @@ This repository contains my notes, code snippets, practice projects, and experim
 
 Recently added a section on **Multithreading** in Python!
 
-### What's included:
+### What's included
+
 - ✅ Simple multithreading code examples  
 - ✅ Comments explaining how multithreading works  
 - ✅ Usage of `.join()` and its significance  
 - ✅ Real-world use cases for running parallel tasks
 
 📄 **Read the detailed explanation here**:  
-🔗 [threading/multithreading_explained.md](./threading/multithreading_explained.md)
+🔗 [threading/note.md](./threading/note.md)
 
 ---
 
